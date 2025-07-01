@@ -7,12 +7,12 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="200" src="https://media1.tenor.com/m/DCd-sK7uyH0AAAAC/cute-cat-tiny.gif">
 
-- 🔥 I’m currently working with **[Tanji](https://github.com/abcodersavi)**
+- 🔥 I’m currently working with **[HOSTBANK](https://github.com/abcodersavi)**
 - 🌟 I specialize in **Bot Development, Web Development, and Automation**
 - 📍 I’m from **Patna, Bihar, India**
 - 💼 Owner of **multiple Telegram Bots & Web Projects**
 - 🏆 I love coding and building **unique solutions**  
-- 📧 Reach me at **abcodersavi9265@gmail.com**
+- 📧 Reach me at **abhaykumar732295@gmail.com**
 - 💬 Fun Fact: **I'm Funny**
 
 
